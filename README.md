@@ -21,7 +21,7 @@ This is an Android application developed with Kotlin.
 ![Main](screenshots/main.png)
 
 ### Detail Screen
-![Detail](screenshots/detail.png)
+![Detail](screenshots/details.png)
 
 ## How to Run
 - Clone the project
