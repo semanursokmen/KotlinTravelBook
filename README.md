@@ -17,11 +17,11 @@ This is an Android application developed with Kotlin.
 
 ## Screenshots
 
-### Map Screen
-![Map](screenshots/map.png)
+### Main Screen
+screenshots/main.png
 
 ### Detail Screen
-![Detail](screenshots/detail.png)
+screenshots/detail.png
 
 ## How to Run
 - Clone the project
