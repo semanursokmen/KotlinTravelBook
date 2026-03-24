@@ -18,10 +18,10 @@ This is an Android application developed with Kotlin.
 ## Screenshots
 
 ### Main Screen
-screenshots/main.png
+![Main](screenshots/main.png)
 
 ### Detail Screen
-screenshots/detail.png
+![Detail](screenshots/detail.png)
 
 ## How to Run
 - Clone the project
